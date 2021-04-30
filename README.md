@@ -1,4 +1,4 @@
-# Anchor
+# [Anchor](https://github.com/marcotcr/anchor)
 This repository has code for the paper [*High-Precision Model-Agnostic Explanations*](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf).  
 
 An anchor explanation is a rule that sufficiently “anchors” the
