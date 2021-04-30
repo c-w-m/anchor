@@ -1,0 +1,10 @@
+deeplab_v2/
+models/
+regression_v2/
+rt-polaritydata/
+deeplab_report.txt
+drop*.*
+report.txt
+rt-polaritydata.README.1.0.txt
+rt-polaritydata.tar.*
+tree_report.txt
